@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">22521334 - Nguyen Huu Thang</string>
+    <string name="lo_i_nv">Loại NV:</string>
+    <string name="type">Type:</string>
+    <string name="employee_manager">Employee Manager</string>
+    <string name="id">Id:</string>
+    <string name="summit">Summit</string>
+    <string name="fulltime">FullTime</string>
+    <string name="parttime">PartTime</string>
+</resources>
