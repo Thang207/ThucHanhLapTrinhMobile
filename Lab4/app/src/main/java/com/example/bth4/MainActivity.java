@@ -202,7 +202,6 @@ public class MainActivity extends AppCompatActivity {
 
         return scaleAnimation;
     }
-
     private Animation initCombineAnimation() {
         ScaleAnimation scaleAnimation = new ScaleAnimation(
                 1.0f, 3.0f,
